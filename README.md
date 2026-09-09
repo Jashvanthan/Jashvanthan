@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-> ✏️ *Keep only the badges for tools you can talk about confidently in an interview. Remove LangChain/TensorFlow etc. if you haven't actually used them yet — add them back once you have.*
+
 
 ---
 
@@ -71,7 +71,6 @@
 | 🏫 [Campus Explorer](https://github.com/Jashvanthan/Campus-Explorer--College---Info---Website) | Website to explore and display college information | HTML |
 | 💼 [Portfolio](https://github.com/Jashvanthan/Portfolio) | Personal portfolio website | JavaScript |
 
-> ✏️ *SmartAttend (base, admin-only) and ASPIRE (large-scale, CCTV, multi-role) are now clearly differentiated by scope — keep that distinction consistent in each repo's own README too. Add a live demo/repo link and a screenshot to each if you have one.*
 
 ---
 
