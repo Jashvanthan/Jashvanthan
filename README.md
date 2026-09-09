@@ -1,36 +1,62 @@
 <h1 align="center">Hi 👋, I'm Jashvanthan A</h1>
-<h3 align="center">AI & Full-Stack Developer | Second-Year CS Student @ St. Joseph's College of Engineering, Chennai</h3>
+<h3 align="center">AI & Full-Stack Developer | Third-Year CS Student @ St. Joseph's College of Engineering, Chennai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+AI-powered+apps;Full+Stack+Developer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Building+AI-powered+applications;Full+Stack+%2B+LLM+%2B+Computer+Vision;Turning+campus+problems+into+real+products" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **AI-powered applications and full-stack web projects**
-- 🌱 Learning advanced **Machine Learning** and **System Design**
-- 💡 Interested in AI/ML, Full-Stack Development, and building practical tools that solve real campus/college problems
+- 🔭 Currently building **AI-powered applications** — face recognition systems, RAG-based chatbots, and full-stack platforms
+- 🌱 Deepening my skills in **LLMs, Retrieval-Augmented Generation, and Computer Vision**
+- 🏆 Built **ASPIRE** (Student Tracker using Face Recognition) at a hackathon
+- 💡 Interested in AI/ML, Full-Stack Development, and building practical tools that solve real campus problems
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jashvanthan-ashok-90ba60338/)
-- ⚡ Fun fact: I like turning everyday college problems into software projects
+- ⚡ Fun fact: I like turning everyday college problems into software products
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-> ✏️ *Edit this row to match only the tools you've actually used — add/remove badges as your stack grows.*
+**Frontend & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**AI / ML / LLM**
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+> ✏️ *Keep only the badges for tools you can talk about confidently in an interview. Remove LangChain/TensorFlow etc. if you haven't actually used them yet — add them back once you have.*
 
 ---
 
@@ -38,14 +64,14 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎯 [SmartAttend (Attendance)](https://github.com/Jashvanthan/Attendance) | AI-powered facial recognition attendance management system | JavaScript |
+| 🎯 [SmartAttend](https://github.com/Jashvanthan/Attendance) | Base model of a face recognition attendance system, focused on the admin-side flow — marking and managing attendance records | JavaScript, Face Recognition |
+| 🏆 [ASPIRE — Student Tracker](https://github.com/Jashvanthan/ASPIRE) | Hackathon project (Makeathon): a large-scale CCTV-based face recognition system to track student presence across campus in real time, built for admin, student, and mentor usage | Python, Face Recognition, Computer Vision |
+| 📸 [CampusHub](https://github.com/Jashvanthan/campushub) | Instagram-style social platform for college — students post events and ideas, pitch projects for funding, and collaborate with peers on college projects and event registrations | JavaScript, React |
+| 🤖 [DudeAiChat](https://github.com/Jashvanthan/DudeAiChat) | Personal AI chatbot built on a RAG (Retrieval-Augmented Generation) pipeline for context-aware conversations | Python, LLM, RAG |
 | 🏫 [Campus Explorer](https://github.com/Jashvanthan/Campus-Explorer--College---Info---Website) | Website to explore and display college information | HTML |
-| 🎓 [CampusHub](https://github.com/Jashvanthan/campushub) | *Add a one-line description here* | JavaScript |
-| 🐍 [ASPIRE](https://github.com/Jashvanthan/ASPIRE) | *Add a one-line description here* | Python |
-| 🤖 [DudeAiChat](https://github.com/Jashvanthan/DudeAiChat) | *Add a one-line description here* | Python |
 | 💼 [Portfolio](https://github.com/Jashvanthan/Portfolio) | Personal portfolio website | JavaScript |
 
-> ✏️ *Fill in the blank descriptions above with a real one-liner — what the project does and why you built it. This table also doubles as a quick project index for anyone visiting your profile.*
+> ✏️ *SmartAttend (base, admin-only) and ASPIRE (large-scale, CCTV, multi-role) are now clearly differentiated by scope — keep that distinction consistent in each repo's own README too. Add a live demo/repo link and a screenshot to each if you have one.*
 
 ---
 
