@@ -83,7 +83,9 @@
 📎 [Repository](https://github.com/Jashvanthan/ASPIRE) · 
 
 <br>
+
 ---
+
 #### 🎯 SmartAttend — Face Recognition Attendance (Base Model)
 Foundational, **admin-only** version of the attendance system — single-face-per-frame detection with manual override.
 
@@ -103,7 +105,9 @@ Foundational, **admin-only** version of the attendance system — single-face-pe
 <img width="1867" height="882" alt="image" src="https://github.com/user-attachments/assets/2ededb7f-8bbb-46c8-b5df-904e233c1860" />
 
 <br>
+
 ---
+
 #### 📸 CampusHub — Social Platform for College Life
 An **Instagram-style platform** for campus — post events, pitch ideas, raise funding, and collaborate on projects with other students.
 
@@ -118,6 +122,7 @@ An **Instagram-style platform** for campus — post events, pitch ideas, raise f
 - 🗓️ Central feed for everything happening on campus
 
 📎 [Repository](https://github.com/Jashvanthan/campushub) · 🔗 [Live Demo](https://unrivaled-licorice-e7dbcc.netlify.app/)·
+
 <img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/29d925be-7c9e-48e6-8b75-ae825cdb2d30" />
 <img width="1901" height="892" alt="image" src="https://github.com/user-attachments/assets/1d9ee6a5-259c-4518-9034-891a77cb88dd" />
 
@@ -139,6 +144,9 @@ A personal AI chatbot built on a **Retrieval-Augmented Generation (RAG)** pipeli
 📎 [Repository](https://github.com/Jashvanthan/DudeAiChat) · 
 
 <br>
+
+
+---
 
 #### 📂 Other Projects
 
@@ -170,9 +178,8 @@ A personal AI chatbot built on a **Retrieval-Augmented Generation (RAG)** pipeli
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
-   [Portfolio](https://jashvanthanportfolio.netlify.app/).
    </a>
-  <a href="mailto:jashvan467@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <a href="mailto:jashvan467@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
 ---
