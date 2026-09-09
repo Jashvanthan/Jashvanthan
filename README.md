@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jashvanthan A</h1>
-<h3 align="center">AI & Full-Stack Developer | Third-Year CS Student @ St. Joseph's College of Engineering, Chennai</h3>
+<h3 align="center">AI/Full-Stack Developer | Computer Vision · LLMs · React/Node | Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Building+AI-powered+applications;Full+Stack+%2B+LLM+%2B+Computer+Vision;Turning+campus+problems+into+real+products" alt="Typing SVG" />
@@ -9,12 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **AI-powered applications** — face recognition systems, RAG-based chatbots, and full-stack platforms
+- 🔭 Currently building **AI-powered applications** — multi-face CCTV tracking systems, RAG-based chatbots, and full-stack platforms
 - 🌱 Deepening my skills in **LLMs, Retrieval-Augmented Generation, and Computer Vision**
-- 🏆 Built **ASPIRE** (Student Tracker using Face Recognition) at a hackathon
-- 💡 Interested in AI/ML, Full-Stack Development, and building practical tools that solve real campus problems
+- 🏆 Built **ASPIRE** — a large-scale, multi-role CCTV student tracking system (YOLOv11 + InsightFace + ByteTrack) — at a hackathon
+- 💡 Open to **AI/ML and Full-Stack Developer opportunities**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jashvanthan-ashok-90ba60338/)
-- ⚡ Fun fact: I like turning everyday college problems into software products
 
 ---
 
@@ -58,16 +57,93 @@
 
 
 
----
-
 ### 🚀 Featured Projects
+
+<br>
+
+#### 🏆 ASPIRE — Large-Scale Student Tracking System
+**Hackathon project (Makeathon)** · Multi-face CCTV-based tracking across campus, built for **Admin, Mentor, Staff, and Student** roles with role-based authorization.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/InsightFace-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLOv11-111F68?style=flat-square" />
+  <img src="https://img.shields.io/badge/ByteTrack-FF4B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+- 🎥 **Multi-face detection & tracking** across CCTV feeds simultaneously (not single-frame like SmartAttend)
+- 🧠 **InsightFace** for multi-model face recognition + **YOLOv11** for person identification
+- 🎯 **ByteTrack** for continuous person tracking across camera frames
+- 📊 ML-based analysis to track students **by department** and optimize timetables
+- 🔐 Role-based access: **Admin, Mentor, Staff, Student** — each with different permissions
+- 📱 **QR-based log system** for quick information recording
+- ⚙️ End-to-end pipeline: detect → identify → track → analyze → log
+
+📎 [Repository](https://github.com/Jashvanthan/ASPIRE) · 🔗 *Live Demo: add link here* · 🖼️ *Screenshot/GIF: add here*
+
+<br>
+
+#### 🎯 SmartAttend — Face Recognition Attendance (Base Model)
+Foundational, **admin-only** version of the attendance system — single-face-per-frame detection with manual override.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/InsightFace-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Face%20Recognition-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+- 👤 **Single-face detection per frame** using **InsightFace**
+- ✅ Auto-marks attendance immediately after successful detection
+- ✍️ **Manual correction** option for admin to fix misreads
+- 🔐 Admin-only control panel — the base this scaled into ASPIRE
+
+📎 [Repository](https://github.com/Jashvanthan/Attendance) · 🔗 *Live Demo: https://smartattend-73fe.onrender.com/·
+<img width="1891" height="895" alt="image" src="https://github.com/user-attachments/assets/a0bb50b5-5d3f-4ebe-b04b-6648b7805cfe" />
+<img width="1867" height="882" alt="image" src="https://github.com/user-attachments/assets/2ededb7f-8bbb-46c8-b5df-904e233c1860" />
+
+
+<br>
+
+#### 📸 CampusHub — Social Platform for College Life
+An **Instagram-style platform** for campus — post events, pitch ideas, raise funding, and collaborate on projects with other students.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
+
+- 📢 Post and discover **college events** with registration built in
+- 💡 Share **project ideas** and raise funding/support for them
+- 🤝 Collaborate with other students on shared college projects
+- 🗓️ Central feed for everything happening on campus
+
+📎 [Repository](https://github.com/Jashvanthan/campushub) · 🔗 *Live Demo: https://unrivaled-licorice-e7dbcc.netlify.app/·
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/29d925be-7c9e-48e6-8b75-ae825cdb2d30" />
+
+
+<br>
+
+#### 🤖 DudeAiChat — Personal RAG Chatbot
+A personal AI chatbot built on a **Retrieval-Augmented Generation (RAG)** pipeline for context-aware conversations.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" />
+</p>
+
+- 🧠 Retrieves relevant context before generating responses (RAG architecture)
+- 💬 Personal-use chat assistant with grounded, context-aware answers
+
+📎 [Repository](https://github.com/Jashvanthan/DudeAiChat) · 
+
+<br>
+
+#### 📂 Other Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎯 [SmartAttend](https://github.com/Jashvanthan/Attendance) | Base model of a face recognition attendance system, focused on the admin-side flow — marking and managing attendance records | JavaScript, Face Recognition |
-| 🏆 [ASPIRE — Student Tracker](https://github.com/Jashvanthan/ASPIRE) | Hackathon project (Makeathon): a large-scale CCTV-based face recognition system to track student presence across campus in real time, built for admin, student, and mentor usage | Python, Face Recognition, Computer Vision |
-| 📸 [CampusHub](https://github.com/Jashvanthan/campushub) | Instagram-style social platform for college — students post events and ideas, pitch projects for funding, and collaborate with peers on college projects and event registrations | JavaScript, React |
-| 🤖 [DudeAiChat](https://github.com/Jashvanthan/DudeAiChat) | Personal AI chatbot built on a RAG (Retrieval-Augmented Generation) pipeline for context-aware conversations | Python, LLM, RAG |
 | 🏫 [Campus Explorer](https://github.com/Jashvanthan/Campus-Explorer--College---Info---Website) | Website to explore and display college information | HTML |
 | 💼 [Portfolio](https://github.com/Jashvanthan/Portfolio) | Personal portfolio website | JavaScript |
 
@@ -93,8 +169,11 @@
   <a href="https://www.linkedin.com/in/jashvanthan-ashok-90ba60338/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Add email/portfolio link below once ready -->
-  <!-- <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <p>
+    Portfolio
+  </p>
+ <a href="https://jashvanthanportfolio.netlify.app/" target="_blank">Link</a>
+  <a href="mailto:jashvan467@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 </p>
 
 ---
