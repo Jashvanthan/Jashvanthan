@@ -167,6 +167,7 @@ Admin-facing attendance system with single-face-per-frame detection and a live a
 An **Instagram-style platform** for campus — post events, pitch ideas, raise funding, and collaborate on projects with other students.
 
 <p align="left">
+  <img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/7a34a03c-e423-4bd2-88fa-6675bd3abc00" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
