@@ -167,7 +167,6 @@ Admin-facing attendance system with single-face-per-frame detection and a live a
 An **Instagram-style platform** for campus — post events, pitch ideas, raise funding, and collaborate on projects with other students.
 
 <p align="left">
-  <img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/7a34a03c-e423-4bd2-88fa-6675bd3abc00" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
@@ -180,8 +179,8 @@ An **Instagram-style platform** for campus — post events, pitch ideas, raise f
 📎 [Repository](https://github.com/Jashvanthan/campushub) · 🔗 [Live Demo](https://unrivaled-licorice-e7dbcc.netlify.app/)
 
 <img width="1581" height="858" alt="image" src="https://github.com/user-attachments/assets/4e6639c4-5bc6-4bb9-ac63-375bc8e23990" />
+<img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/7a34a03c-e423-4bd2-88fa-6675bd3abc00" />
 <img width="1917" height="903" alt="CampusHub feed" src="https://github.com/user-attachments/assets/29d925be-7c9e-48e6-8b75-ae825cdb2d30" />
-<img width="1901" height="892" alt="CampusHub events" src="https://github.com/user-attachments/assets/1d9ee6a5-259c-4518-9034-891a77cb88dd" />
 
 <br>
 
