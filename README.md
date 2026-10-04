@@ -178,10 +178,10 @@ An **Instagram-style platform** for campus — post events, pitch ideas, raise f
 
 📎 [Repository](https://github.com/Jashvanthan/campushub) · 🔗 [Live Demo](https://unrivaled-licorice-e7dbcc.netlify.app/)
 
-<img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/c1e00fc2-10ac-4c3e-bd4a-c12b374a8164" />
+
 <img width="1581" height="858" alt="image" src="https://github.com/user-attachments/assets/4e6639c4-5bc6-4bb9-ac63-375bc8e23990" />
 <img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/7a34a03c-e423-4bd2-88fa-6675bd3abc00" />
-
+<img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/c1e00fc2-10ac-4c3e-bd4a-c12b374a8164" />
 
 <br>
 
